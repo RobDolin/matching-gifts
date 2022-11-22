@@ -14,6 +14,12 @@ List of employers that match charitable donations and links for requesting match
 These organizations do not have a matching gifts program :(
 * [Amazon](https://doublethedonation.com/matching-gifts/amazon)
 
+## Suggest Another Organization
+Here are steps to suggest another organization:
+* Click the edit pencil icon (top right)
+* Enter your changes following the [Markdown](https://www.markdownguide.org/cheat-sheet) format
+* Click the green button
+
 ## Additional Resources
 Below are additional resources to learn more about matching gifts programs
 * https://www.charities.org/news/blog/7-outstanding-corporate-matching-gift-programs
