@@ -14,6 +14,13 @@ List of employers that match charitable donations and links for requesting match
 These organizations do not have a matching gifts program :(
 * [Amazon](https://doublethedonation.com/matching-gifts/amazon)
 
+## Seeking Information
+If you have information about these organizations, please share with [matching-gifts-list@robdolin.com](mailto:matching-gifts-list@robdolin.com)
+* Expedia
+* King County
+* Meta
+* Washington Mutual
+
 ## Suggest Another Organization
 Here are steps to suggest another organization:
 * Click the edit pencil icon (top right)
